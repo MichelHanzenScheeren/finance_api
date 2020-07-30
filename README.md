@@ -13,7 +13,7 @@ O provedor de dados da biblioteca usado foi o Yahoo.
 * Instale as dependências do projeto (localizadas em package.json - Yarn recomendado).
 * Execute o comando "yarn dev" (ou "npm run dev").
 * Abra seu navegador em "http://localhost:3001/api" (endpoint padrão).
-* A chamada anterior retornará os demais endpoints com instruções de uso. (recomendado copiar a resposta e colar em um "Json parser" - ex <http://json.parser.online.fr/>).
+* A chamada anterior retorna diversas instruções de uso. (recomendado colar a resposta em um "Json parser" - ex <http://json.parser.online.fr/>).
 
 # Endpoints
 * "/", "/index", ou "/home": Informações e intruções gerais sobre a api;
