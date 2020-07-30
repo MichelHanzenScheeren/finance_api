@@ -7,12 +7,12 @@ A proposta é oferecer um endpoint para pesquisa de ativos listados em bolsa e s
 O provedor de dados da biblioteca usado foi o Yahoo.
 
 # Instruções de uso
-* É necessário ter o NodeJs instalado. (pode ser baixado em <https://nodejs.org/en/>)
-* Clone o repositório no seu computador.
+* É necessário ter o NodeJs instalado. (pode ser baixado em <https://nodejs.org/en/>. Versão recomendada: v12.18.2).
+* Clone o repositório no seu computador (no prompt, digitando "git clone https://github.com/MichelHanzenScheeren/finance_api.git") ou baixe e extraia o arquivo zip.
 * Abra a pasta no seu editor de código.
-* Instale as dependências do projeto (localizadas em package.json - Yarn recomendado).
+* Instale as dependências do projeto (localizadas em "package.json" - comando "yarn install" ou "npm install").
 * Execute o comando "yarn dev" (ou "npm run dev").
-* Abra seu navegador em "http://localhost:3001/api" (endpoint padrão).
+* Abra seu navegador no endereço "http://localhost:3001/api" (endpoint padrão).
 * A chamada anterior retorna diversas instruções de uso. (recomendado colar a resposta em um "Json parser" - ex <http://json.parser.online.fr/>).
 
 # Endpoints
