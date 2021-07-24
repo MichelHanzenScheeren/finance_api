@@ -9,7 +9,8 @@
     "algotrader": "^2.5.4",
     "express": "^4.17.1",
     "handlebars": "4.7.7",
-    "underscore": "1.12.1"
+    "underscore": "1.12.1",
+    "xmlhttprequest-ssl": "1.6.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
